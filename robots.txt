@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://christine-childs.vercel.app/sitemap.xml
